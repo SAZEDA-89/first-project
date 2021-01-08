@@ -1,0 +1,110 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: 60px;
+    
+    font-weight: 700;
+    
+}
+.name-highlight{
+    color: salmon;
+
+}
+.intro{
+    color: rgb(47, 47, 95) ;
+
+}
+p{
+    font-size: 15px;
+    color: rgb(97, 93, 93);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    
+    text-decoration: none;
+    background-color: salmon;
+    padding: 15px 40px;
+    border-radius: 5px;
+    color: white;
+    background-image: linear-gradient(180deg, lightsalmon tomato);
+    
+}
+.myself{
+    text-align: right;
+    height: 500px;
+    padding-bottom: 80px;
+}
+.resume{
+    height: 500px;
+    padding-bottom: 70px;
+}
+.cv{
+    color: rgb(47, 47, 95);
+    font-size: 50px;
+    text-align: center;
+    
+}
+.latest-wp{
+    background-color: whitesmoke;
+    height: 500px;
+    padding-bottom: 50px;
+}
+.WP img{
+    float: left;
+    width: 30%;
+    margin: 20px, 20px;
+    padding: 10px, 20px;
+}
+.highlight{
+    margin-top: 5px;
+    color: salmon;
+}
+h2{
+    color: rgb(47, 47, 95);
+    font-size: 50px;
+    text-align: center;
+    margin-top: 5%;
+}
+.last{
+    
+    background-image: url(images/banner.png);
+    background-repeat: no-repeat;
+    background-size: 800px;
+    background-position: center;
+    height: 500px;
+    margin: 10px 20px;
+    
+}
+
+.chat{
+    
+    float:right;
+    padding-top: 17%;
+    margin-right: 15%;
+}
+.work{
+    float: left;
+    margin: 15% 25%;
+    }
+#inq{
+  color: white
+}
+.stay{
+    font-size: 15px;
+    margin: 5% 10%;
+    
+}
+.con{
+    text-align: center;
+}
